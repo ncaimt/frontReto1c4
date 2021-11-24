@@ -1,0 +1,34 @@
+h1 {
+  text-align: center;
+  margin: 20px auto;
+}
+
+.secciones {
+  border: 1px solid black;
+  width: 80%;
+  text-align: center;
+  margin: 0 auto 50px auto;
+  padding: 50px;
+  border-radius: 10px;
+}
+
+.secciones form input {
+  margin: 5px auto 5px auto;
+}
+
+.secciones form label {
+  right: -50px;
+}
+
+a {
+  color: blue;
+}
+
+input {
+  display: block;
+  margin: 10px;
+}
+
+button {
+  margin: 10px auto;
+}
